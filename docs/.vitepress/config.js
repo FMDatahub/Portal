@@ -12,7 +12,18 @@ export default {
         items: [
           {
             text: "Datahub",
-            link: "https://vna-dev.azurewebsites.net/",
+            collapsed: true,
+            link: "/Datahub/",
+            items: [
+              {
+                text: "Frontend",
+                link: "https://vna-dev.azurewebsites.net/",
+              },
+              {
+                text: "API",
+                link: "https://vna-api-dev.azurewebsites.net/",
+              },
+            ],
           },
           {
             text: "Datadictionary",
