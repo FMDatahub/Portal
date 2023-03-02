@@ -1,6 +1,6 @@
 export default {
   title: "Portal",
-  description: "Just playing around.",
+  description: "Vejviser",
   srcDir: "./",
   base: "/Portal/",
   //cleanUrls: true,
