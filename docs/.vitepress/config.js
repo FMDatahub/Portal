@@ -20,15 +20,15 @@ export default {
           },
           {
             text: "Onboarding",
-            link: "/Onboarding/",
+            link: "https://github.com/FMDatahub/Onboarding",
           },
           {
             text: "Guides",
-            link: "/Guides/",
+            link: "https://github.com/FMDatahub/Guides",
           },
           {
             text: "Documentation",
-            link: "/Documentation/",
+            link: "https://github.com/FMDatahub/Documentation",
           },
         ],
       },
