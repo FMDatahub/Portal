@@ -43,7 +43,7 @@ export default {
       },
       {
         text: "Fagsystemer",
-        collapsed: false,
+        collapsed: true,
         link: "/Fagsystemer/",
         items: [
           {text: "Timesafe", link: "/Fagsystemer/Timesafe/"},
