@@ -8,7 +8,7 @@
 
 > Ingen
 
-### Tilknyttede fagsystemer
+### Tilknyttede Systemer
 
 > Ingen
 

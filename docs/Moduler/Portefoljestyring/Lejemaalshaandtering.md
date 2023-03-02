@@ -8,9 +8,9 @@
 
 > Ingen
 
-### Tilknyttede fagsystemer
+### Tilknyttede Systemer
 
-> [Datahub](/Fagsystemer/Datahub/)
+> [Datahub](/Systemer/Datahub/)
 
 ### Hjælp med at vedligeholde
 

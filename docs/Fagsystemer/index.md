@@ -1,3 +1,3 @@
-# Fagsystemer
+# Systemer
 
-### Overblik over fagsystemer
+### Overblik over Systemer

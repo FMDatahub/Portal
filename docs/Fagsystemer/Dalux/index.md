@@ -23,4 +23,4 @@ https://dalux.com/
 
 ### Help us stay updated
 
-> [Rediger](https://github.com/FMDatahub/Portal/blob/main/docs/Fagsystemer/Timesafe/index.md)
+> [Rediger](https://github.com/FMDatahub/Portal/blob/main/docs/Systemer/Timesafe/index.md)

@@ -23,4 +23,4 @@ Ikke integreret
 
 ### Help us stay updated
 
-> [Rediger](https://github.com/FMDatahub/Portal/blob/main/docs/Fagsystemer/Energykey/index.md)
+> [Rediger](https://github.com/FMDatahub/Portal/blob/main/docs/Systemer/Energykey/index.md)

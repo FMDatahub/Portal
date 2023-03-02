@@ -23,4 +23,4 @@ Ikke integreret
 
 ### Help us stay updated
 
-> [Rediger](https://github.com/FMDatahub/Portal/blob/main/docs/Fagsystemer/KKOrg/index.md)
+> [Rediger](https://github.com/FMDatahub/Portal/blob/main/docs/Systemer/KKOrg/index.md)

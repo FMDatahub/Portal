@@ -23,4 +23,4 @@ Ikke integreret
 
 ### Help us stay updated
 
-> [Rediger](https://github.com/FMDatahub/Portal/blob/main/docs/Fagsystemer/Datahub/index.md)
+> [Rediger](https://github.com/FMDatahub/Portal/blob/main/docs/Systemer/Datahub/index.md)
