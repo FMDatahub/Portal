@@ -8,4 +8,4 @@ KEIDs forretningsbehov fordelt på moduler.
 
 ### Hjælp med at vedligeholde
 
-> [Edit](https://github.com/FMDatahub/Portal/blob/main/docs/Moduler/index.md)
+> [Rediger](https://github.com/FMDatahub/Portal/blob/main/docs/Moduler/index.md)

@@ -10,4 +10,4 @@
 
 ### Hjælp med at vedligeholde
 
-> [Edit](https://github.com/FMDatahub/Portal/blob/main/docs/Moduler/Administration/Support.md)
+> [Rediger](https://github.com/FMDatahub/Portal/blob/main/docs/Moduler/Administration/Support.md)

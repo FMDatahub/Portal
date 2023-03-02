@@ -23,4 +23,4 @@ Ikke integreret
 
 ### Help us stay updated
 
-> [Edit](https://github.com/FMDatahub/Portal/blob/main/docs/Fagsystemer/KKKort/index.md)
+> [Rediger](https://github.com/FMDatahub/Portal/blob/main/docs/Fagsystemer/KKKort/index.md)
