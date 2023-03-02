@@ -55,6 +55,8 @@ export default {
           {text: "BBR", link: "/Fagsystemer/BBR/"},
           {text: "Vitec", link: "/Fagsystemer/Vitec/"},
           {text: "Powerapps", link: "/Fagsystemer/Powerapps/"},
+          {text: "KKort", link: "/Fagsystemer/KKort/"},
+          {text: "KKOrg", link: "/Fagsystemer/KKOrg/"},
         ],
       },
     ],
