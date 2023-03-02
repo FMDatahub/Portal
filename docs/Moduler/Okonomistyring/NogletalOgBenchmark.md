@@ -1,4 +1,4 @@
-# NogletalOgBenchmark
+# Nøgletal og benchmark
 
 ### Beskrivelse
 
