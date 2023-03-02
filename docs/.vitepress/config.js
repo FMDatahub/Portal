@@ -308,27 +308,27 @@ export default {
           {
             text: "Drift & vedligehold",
             collapsed: true,
-            link: "/Moduler/DriftOgvedligehold/",
+            link: "/Moduler/DriftOgVedligehold/",
             items: [
               {
                 text: "Opgavebeskrivelser",
-                link: "/Moduler/DriftOgvedligehold/Opgavebeskrivelser.md",
+                link: "/Moduler/DriftOgVedligehold/Opgavebeskrivelser.md",
               },
               {
                 text: "Vedligeholdstyper",
-                link: "/Moduler/DriftOgvedligehold/Vedligeholdstyper.md",
+                link: "/Moduler/DriftOgVedligehold/Vedligeholdstyper.md",
               },
               {
                 text: "Vedligeholdsplaner",
-                link: "/Moduler/DriftOgvedligehold/Vedligeholdsplaner.md",
+                link: "/Moduler/DriftOgVedligehold/Vedligeholdsplaner.md",
               },
               {
                 text: "Vedligeholdsopgaver",
-                link: "/Moduler/DriftOgvedligehold/Vedligeholdsopgaver.md",
+                link: "/Moduler/DriftOgVedligehold/Vedligeholdsopgaver.md",
               },
               {
                 text: "Vedligeholdshistorik",
-                link: "/Moduler/DriftOgvedligehold/Vedligeholdshistorik.md",
+                link: "/Moduler/DriftOgVedligehold/Vedligeholdshistorik.md",
               },
             ],
           },
