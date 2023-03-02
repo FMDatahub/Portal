@@ -8,7 +8,7 @@ export default {
   themeConfig: {
     sidebar: [
       {
-        text: "FMDatahub",
+        text: "FM Datahub",
         items: [
           {
             text: "Datahub",
