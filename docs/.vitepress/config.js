@@ -271,7 +271,7 @@ export default {
             ],
           },
           {
-            text: "Energistgyring",
+            text: "Energistyring",
             collapsed: true,
             link: "/Moduler/Energistyring/",
             items: [
