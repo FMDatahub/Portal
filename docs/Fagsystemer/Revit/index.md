@@ -4,9 +4,11 @@
 
 - Struktur
 
-### Status
+### Integration
 
 Ikke integreret
+
+> Type: Fil baseret
 
 ### Link
 
