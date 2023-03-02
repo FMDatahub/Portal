@@ -10,7 +10,7 @@
 
 ### Understøttes af følgende fagsystemer
 
-> Ingen
+> [Datahub](/Fagsystemer/Datahub/)
 
 ### Hjælp med at vedligeholde
 
