@@ -54,6 +54,7 @@ export default {
           {text: "Kvantum", link: "/Fagsystemer/Kvantum/"},
           {text: "BBR", link: "/Fagsystemer/BBR/"},
           {text: "Vitec", link: "/Fagsystemer/Vitec/"},
+          {text: "Powerapps", link: "/Fagsystemer/Powerapps/"},
         ],
       },
     ],
