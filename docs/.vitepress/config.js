@@ -53,6 +53,7 @@ export default {
           {text: "Servicenow", link: "/Fagsystemer/Servicenow/"},
           {text: "Kvantum", link: "/Fagsystemer/Kvantum/"},
           {text: "BBR", link: "/Fagsystemer/BBR/"},
+          {text: "Vitec", link: "/Fagsystemer/Vitec/"},
         ],
       },
     ],
