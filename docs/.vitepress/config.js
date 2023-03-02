@@ -46,8 +46,8 @@ export default {
         collapsed: false,
         link: "/Fagsystemer/",
         items: [
-          {text: "Timesafe", link: "/Timesafe/"},
-          {text: "Dalux", link: "/Dalux/"},
+          {text: "Timesafe", link: "/Fagsystemer/Timesafe/"},
+          {text: "Dalux", link: "/Fagsystemer/Dalux/"},
         ],
       },
     ],

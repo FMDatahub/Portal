@@ -1,6 +1,6 @@
 # Timesafe
 
-### Er masterdata på følgende data
+### Masterdata
 
 - Elementer
 

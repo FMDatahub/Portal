@@ -1,6 +1,8 @@
 # Dalux
 
-### Er ikke masterdata på noget
+### Masterdata
+
+- Ingen
 
 ### Status
 
