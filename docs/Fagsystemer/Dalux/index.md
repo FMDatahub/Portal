@@ -2,7 +2,7 @@
 
 ### Data
 
-- Indput
+- Input
 - Output
 
 ### Integration
