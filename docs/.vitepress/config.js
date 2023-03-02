@@ -48,6 +48,11 @@ export default {
         items: [
           {text: "Timesafe", link: "/Fagsystemer/Timesafe/"},
           {text: "Dalux", link: "/Fagsystemer/Dalux/"},
+          {text: "Revit", link: "/Fagsystemer/Revit/"},
+          {text: "Energykey", link: "/Fagsystemer/Energykey/"},
+          {text: "Servicenow", link: "/Fagsystemer/Servicenow/"},
+          {text: "Kvantum", link: "/Fagsystemer/Kvantum/"},
+          {text: "BBR", link: "/Fagsystemer/BBR/"},
         ],
       },
     ],
