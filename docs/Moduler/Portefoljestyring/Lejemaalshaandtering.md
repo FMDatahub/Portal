@@ -8,7 +8,7 @@
 
 > Ingen
 
-### Tilknyttede Systemer
+### Tilknyttede systemer
 
 > [Datahub](/Systemer/Datahub/)
 
