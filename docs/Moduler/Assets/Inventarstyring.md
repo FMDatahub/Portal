@@ -8,7 +8,7 @@
 
 > Ingen
 
-### Understøttes af følgende fagsystemer
+### Tilknyttede fagsystemer
 
 > Ingen
 
