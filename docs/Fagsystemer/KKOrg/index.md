@@ -1,6 +1,6 @@
 # KKOrg
 
-### Masterdata
+### Data
 
 - Ingen
 

@@ -1,6 +1,6 @@
 # Dalux
 
-### Masterdata
+### Data
 
 - Ingen
 

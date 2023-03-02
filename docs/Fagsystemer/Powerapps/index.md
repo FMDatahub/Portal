@@ -1,6 +1,6 @@
 # Powerapps
 
-### Masterdata
+### Data
 
 - Ingen
 

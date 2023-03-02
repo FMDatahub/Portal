@@ -1,6 +1,6 @@
 # Kvantum
 
-### Masterdata
+### Data
 
 - Ingen
 

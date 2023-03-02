@@ -1,6 +1,6 @@
 # Energykey
 
-### Masterdata
+### Data
 
 - Ingen
 

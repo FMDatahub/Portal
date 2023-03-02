@@ -1,6 +1,6 @@
 # KKKort
 
-### Masterdata
+### Data
 
 - Ingen
 

@@ -1,6 +1,6 @@
 # Revit
 
-### Masterdata
+### Data
 
 - Struktur
 

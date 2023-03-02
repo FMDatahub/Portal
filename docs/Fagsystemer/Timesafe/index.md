@@ -1,6 +1,6 @@
 # Timesafe
 
-### Masterdata
+### Data
 
 - Elementer
 

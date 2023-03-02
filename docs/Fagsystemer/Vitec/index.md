@@ -1,6 +1,6 @@
 # Vitec
 
-### Masterdata
+### Data
 
 - Struktur
 

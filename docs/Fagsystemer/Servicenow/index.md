@@ -1,6 +1,6 @@
 # Servicenow
 
-### Masterdata
+### Data
 
 - Ingen
 

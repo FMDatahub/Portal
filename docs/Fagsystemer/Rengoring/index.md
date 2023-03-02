@@ -1,6 +1,6 @@
 # Rengøring
 
-### Masterdata
+### Data
 
 - Ingen
 

@@ -1,6 +1,6 @@
 # BBR
 
-### Masterdata
+### Data
 
 - Ingen
 
