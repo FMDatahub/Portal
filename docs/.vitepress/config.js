@@ -397,6 +397,7 @@ export default {
         collapsed: true,
         link: "/Fagsystemer/",
         items: [
+          {text: "Datahub", link: "/Fagsystemer/Datahub/"},
           {text: "Timesafe", link: "/Fagsystemer/Timesafe/"},
           {text: "Dalux", link: "/Fagsystemer/Dalux/"},
           {text: "Revit", link: "/Fagsystemer/Revit/"},
