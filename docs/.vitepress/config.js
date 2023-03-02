@@ -8,7 +8,6 @@ export default {
   themeConfig: {
     sidebar: [
       {
-        text: "Links",
         items: [
           {
             text: "Datahub",
@@ -44,9 +43,11 @@ export default {
       },
       {
         text: "Fagsystemer",
+        collapsed: false,
+        link: "/Fagsystemer/",
         items: [
-          {text: "Timesafe", link: "https://www.timesafe.dk/"},
-          {text: "Dalux", link: "https://dalux.com/"},
+          {text: "Timesafe", link: "/Timesafe/"},
+          {text: "Dalux", link: "/Dalux/"},
         ],
       },
     ],
