@@ -42,7 +42,7 @@ export default {
         ],
       },
       {
-        text: "FM-Moduler",
+        text: "Forretningsbehov",
         collapsed: true,
         link: "/Moduler/",
         items: [
