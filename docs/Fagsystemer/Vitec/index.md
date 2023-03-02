@@ -2,7 +2,8 @@
 
 ### Data
 
-- Struktur
+- Indput
+- Output
 
 ### Integration
 

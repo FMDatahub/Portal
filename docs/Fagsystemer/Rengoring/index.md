@@ -2,7 +2,8 @@
 
 ### Data
 
-- Ingen
+- Indput
+- Output
 
 ### Integration
 
