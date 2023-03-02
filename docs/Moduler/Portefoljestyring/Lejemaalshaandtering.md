@@ -6,7 +6,7 @@
 
 ### Understøttes af følgende fagsystemer
 
-> Ingen
+> [Rediger](FMDatahub/Portal/docs/Fagsystemer/Datahub/)
 
 ### Hjælp med at vedligeholde
 
