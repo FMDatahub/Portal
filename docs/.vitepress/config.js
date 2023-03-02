@@ -12,18 +12,7 @@ export default {
         items: [
           {
             text: "Datahub",
-            collapsed: true,
-            link: "/Datahub/",
-            items: [
-              {
-                text: "Frontend",
-                link: "https://vna-dev.azurewebsites.net/",
-              },
-              {
-                text: "API",
-                link: "https://vna-api-dev.azurewebsites.net/",
-              },
-            ],
+            link: "https://vna-dev.azurewebsites.net/",
           },
           {
             text: "Datadictionary",
@@ -39,7 +28,17 @@ export default {
           },
           {
             text: "Documentation",
-            link: "https://github.com/FMDatahub/Documentation",
+            collapsed: true,
+            items: [
+              {
+                text: "Frontend",
+                link: "https://github.com/FMDatahub/Documentation/tree/main/Frontend",
+              },
+              {
+                text: "API",
+                link: "https://github.com/FMDatahub/Documentation/tree/main/Backend/API",
+              },
+            ],
           },
         ],
       },
