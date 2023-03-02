@@ -57,6 +57,7 @@ export default {
           {text: "Powerapps", link: "/Fagsystemer/Powerapps/"},
           {text: "KKKort", link: "/Fagsystemer/KKKort/"},
           {text: "KKOrg", link: "/Fagsystemer/KKOrg/"},
+          {text: "Rengoring", link: "/Fagsystemer/Rengoring/"},
         ],
       },
     ],
