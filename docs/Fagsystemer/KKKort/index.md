@@ -1,4 +1,4 @@
-# BBR
+# KKKort
 
 ### Masterdata
 
@@ -14,4 +14,4 @@ Ikke integreret
 
 ### Help us stay updated
 
-> [Edit](https://github.com/FMDatahub/Portal/blob/main/docs/Fagsystemer/BBR/index.md)
+> [Edit](https://github.com/FMDatahub/Portal/blob/main/docs/Fagsystemer/KKKort/index.md)
