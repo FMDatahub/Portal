@@ -42,6 +42,14 @@ export default {
         ],
       },
       {
+        text: "IT-målbillede",
+        collapsed: true,
+        link: "/ITMaalbillede/",
+        items: [
+          {text: "Designprincipper", link: "/ITMaalbillede/Designprincipper/"},
+        ],
+      },
+      {
         text: "Forretningsbehov",
         collapsed: true,
         link: "/Moduler/",
@@ -410,14 +418,6 @@ export default {
           {text: "KKKort", link: "/Systemer/KKKort/"},
           {text: "KKOrg", link: "/Systemer/KKOrg/"},
           {text: "Rengoring", link: "/Systemer/Rengoring/"},
-        ],
-      },
-      {
-        text: "IT-målbillede",
-        collapsed: true,
-        link: "/ITMaalbillede/",
-        items: [
-          {text: "Designprincipper", link: "/ITMaalbillede/Designprincipper/"},
         ],
       },
     ],
