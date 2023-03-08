@@ -412,6 +412,11 @@ export default {
           {text: "Rengoring", link: "/Systemer/Rengoring/"},
         ],
       },
+      {
+        text: "Designprincipper",
+        collapsed: true,
+        link: "/Designprincipper/",
+      },
     ],
   },
 };
