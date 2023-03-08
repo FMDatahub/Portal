@@ -414,7 +414,6 @@ export default {
       },
       {
         text: "Designprincipper",
-        collapsed: true,
         link: "/Designprincipper/",
       },
     ],
