@@ -413,8 +413,12 @@ export default {
         ],
       },
       {
-        text: "Designprincipper",
-        link: "/Designprincipper/",
+        text: "IT-målbillede",
+        collapsed: true,
+        link: "/ITMaalbillede/",
+        items: [
+          {text: "Designprincipper", link: "/ITMaalbillede/Designprincipper/"},
+        ],
       },
     ],
   },
