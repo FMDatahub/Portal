@@ -6,6 +6,7 @@ export default {
   //cleanUrls: true,
   ignoreDeadLinks: true,
   themeConfig: {
+    socialLinks: [{icon: "github", link: "https://github.com/FMDatahub"}],
     sidebar: [
       {
         items: [
