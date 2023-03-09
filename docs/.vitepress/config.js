@@ -18,14 +18,6 @@ export default {
             link: "https://fmdatahub.github.io/Datadictionary",
           },
           {
-            text: "Onboarding",
-            link: "https://github.com/FMDatahub/Onboarding",
-          },
-          {
-            text: "Guides",
-            link: "https://github.com/FMDatahub/Guides",
-          },
-          {
             text: "Documentation",
             link: "https://fmdatahub.github.io/Documentation/",
           },
