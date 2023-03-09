@@ -6,6 +6,10 @@ export default {
   //cleanUrls: true,
   ignoreDeadLinks: true,
   themeConfig: {
+    editLink: {
+      pattern: "https://github.com/FMDatahub/Portal/tree/main/docs/:path",
+      text: "Rediger denne side på GitHub",
+    },
     socialLinks: [{icon: "github", link: "https://github.com/FMDatahub"}],
     sidebar: [
       {
