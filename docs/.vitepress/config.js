@@ -27,17 +27,7 @@ export default {
           },
           {
             text: "Documentation",
-            collapsed: true,
-            items: [
-              {
-                text: "Frontend",
-                link: "https://github.com/FMDatahub/Documentation/tree/main/Frontend",
-              },
-              {
-                text: "API",
-                link: "https://github.com/FMDatahub/Documentation/tree/main/Backend/API",
-              },
-            ],
+            link: "https://fmdatahub.github.io/Documentation/",
           },
         ],
       },
