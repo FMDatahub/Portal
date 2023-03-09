@@ -29,6 +29,48 @@ export default {
               {
                 text: "Designprincipper",
                 link: "/ITMaalbillede/Designprincipper/",
+                items: [
+                  {
+                    text: "Simpel og stepvis tilgang",
+                    link: "/ITMaalbillede/Designprincipper/Designprincip1.md",
+                  },
+                  {
+                    text: "Minimal afhængighed",
+                    link: "/ITMaalbillede/Designprincipper/Designprincip2.md",
+                  },
+                  {
+                    text: "Sikkerhed og compliance",
+                    link: "/ITMaalbillede/Designprincipper/Designprincip3.md",
+                  },
+                  {
+                    text: "Standard teknologier",
+                    link: "/ITMaalbillede/Designprincipper/Designprincip4.md",
+                  },
+                  {
+                    text: "Brugernes behov i centrum",
+                    link: "/ITMaalbillede/Designprincipper/Designprincip5.md",
+                  },
+                  {
+                    text: "Tværgående forretningsunderstøttelse",
+                    link: "/ITMaalbillede/Designprincipper/Designprincip6.md",
+                  },
+                  {
+                    text: "Åbne dataformater",
+                    link: "/ITMaalbillede/Designprincipper/Designprincip7.md",
+                  },
+                  {
+                    text: "Datadrevet tilgang",
+                    link: "/ITMaalbillede/Designprincipper/Designprincip8.md",
+                  },
+                  {
+                    text: "Processer og data",
+                    link: "/ITMaalbillede/Designprincipper/Designprincip9.md",
+                  },
+                  {
+                    text: "Modulær og agil",
+                    link: "/ITMaalbillede/Designprincipper/Designprincip10.md",
+                  },
+                ],
               },
             ],
           },
